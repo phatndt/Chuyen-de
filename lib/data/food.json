@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Choose cuisine",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://w7.pngwing.com/pngs/350/969/png-transparent-foods-illustration-vegetarian-cuisine-food-cooking-cooking-is-cooking-soup-cook-cooking.png"
+    },
+    {
+        "title":"Choose restaurant",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://toppng.com/uploads/preview/restaurant-png-11554005053riiacqdjki.png"
+    },
+    {
+        "title":"Select time,date",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://toppng.com/uploads/preview/date-and-time-11549792880wbuu6mqai9.png"
+    },
+    {
+        "title":"Select number of guest",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://w7.pngwing.com/pngs/448/92/png-transparent-customer-service-business-customer-relationship-management-sales-business-group-company-service-people.png"
+    },
+    {
+        "title":"Prepayment",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://e7.pngegg.com/pngimages/332/767/png-clipart-credit-card-money-debit-card-prepayment-for-service-credit-card-angle-logo-thumbnail.png"
+    },
+    {
+        "title":"Enjoy your time!",
+        "description":"Lorem ipsum dolor sit dim amet, mea regione diamet principes at.",
+        "image_path":"https://images.vexels.com/media/users/3/251369/isolated/preview/8d6a8603dc23f6ae9ba143993968a972-enjoy-quote-badge.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Fractional shares",
+        "description":"Instead of having to buy an entire share, invest any amount you want.",
+        "image_path":"https://uploads-ssl.webflow.com/5fc772e04f6c876a6ec3bf00/605d5a44b22d396e15ee39fc_6058b26ce8ca1c64dc7b7fec_Blog_FractionalShares.png"
+    },
+    {
+        "title":"Learn as you go",
+        "description":"Download the Stockpile app and master the market with our mini-lesson.",
+        "image_path":"https://s.yimg.com/hd/cp-video-transcode/prod/2021-02/01/60185c89d6bc1925fd259923/60185c89d6bc1925fd259924_o_U_v2.png"
+    },
+    {
+        "title":"Kids and teens",
+        "description":"Kids and teens can track their stocks 24/7 and place trades that you approve.",
+        "image_path":"https://images.squarespace-cdn.com/content/v1/53fe4a70e4b0a2293ab0e42a/1576162117662-0ZMCZIKFWVRRMLA55S4R/RH_Fractional+Shares_2.png"
+    },
+    {
+        "title":"Full Screen Page",
+        "description":"Pages can be full screen as well.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id euismod lectus, non tempor felis. Nam rutrum rhoncus est ac venenatis.",
+        "image_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgh5IhZ-cyjr-a_roPXOCufWqr_UBWsPs6Q&usqp=CAU"
+    }
+]
